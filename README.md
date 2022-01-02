@@ -8,7 +8,7 @@ Focado especialmente em NodeJS - apredendo padrões de projetos e ultilizando se
 
 Principais contatos:
 
-:briefcase: https://www.linkedin.com/in/carlos-de-souza-84994419b/
+:briefcase: https://www.linkedin.com/in/carlos-s-c-neto/
 
 ✉️ carlosheins053@gmail.com
 
