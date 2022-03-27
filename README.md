@@ -10,5 +10,5 @@ Principais contatos:
 
 :briefcase: https://www.linkedin.com/in/carlos-s-c-neto/
 
-✉️ carlosheins053@gmail.com
+✉️ carlozheins053@gmail.com
 
