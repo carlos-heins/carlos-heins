@@ -1,10 +1,20 @@
-Meu nome é Carlos de Souza. Sou um desenvolvedor web Junior. Já trabalhei em projetos com javaScript (ReactJs, nodejs), java e c++;
+Meu nome é Carlos de Souza. Sou Desenvolvedor Web Pleno, com foco principal em PHP (Laminas, Laravel) e JavaScript (Node.js, Vue.js, React). Tenho experiência no desenvolvimento de sistemas de gestão escolar e projetos financeiros, atuando na criação de soluções escaláveis, integrações complexas e melhorias de performance.
 
-Já ultilizei em projetos: MySql, TypeOrm, Postgres, MongoDB, ReactNative, Express (Nodejs), Heroku, BootStrap e mais;
+💻 Tecnologias já aplicadas em projetos:
 
-Focado especialmente em NodeJS - apredendo padrões de projetos e ultilizando seus melhores frameworks para criação de backend
+Backend: PHP, Node.js, Express, TypeORM, Sequelize
 
-🎓 Acadêmico em ciência da computação na Unifap;
+Frontend: JavaScript, Vue.js, React, React Native, Bootstrap
+
+Banco de Dados: MySQL, PostgreSQL, MongoDB
+
+DevOps & Cloud: Docker, AWS (S3, RDS), Redis, Heroku
+
+Outros: Arquitetura Multitenant, Integrações de Pagamento (Pix, Cartão, Boleto), APIs REST, Service Workers
+
+📌 Atualmente focado no php e boas práticas de arquitetura, aplicando padrões de projeto, SOLID e Clean Code para criação de backends robustos e escaláveis.
+
+🎓 Acadêmico em Ciência da Computação na UNIFAP.
 
 Principais contatos:
 
